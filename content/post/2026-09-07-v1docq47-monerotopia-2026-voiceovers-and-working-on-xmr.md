@@ -1,6 +1,6 @@
 ---
 title: "CCS предложение от v1docq47 - озвучка выступлений с Monero Konferenco 2026 и работа над XMR.RU"
-date: "2026-10-08"
+date: "2026-10-11"
 categories:
   - "Новости"
 tags:
